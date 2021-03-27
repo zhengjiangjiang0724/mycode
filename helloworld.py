@@ -1,1 +1,3 @@
+#unicode
 print("Hello world")
+
